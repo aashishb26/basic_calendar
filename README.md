@@ -1,2 +1,2 @@
 # basic_calendar
-just a basic calendar slot booking with php
+Basic Booking Calendar with PHP and MySQL
